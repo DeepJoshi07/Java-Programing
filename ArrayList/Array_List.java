@@ -1,5 +1,5 @@
 import java.util.*;
-
+// rendom entry
 // set,get,add,remove,addFirst,addLast,removeFirst,removeLast
 public class Array_List {
     public static int findMaximum(ArrayList<Integer> al) {
